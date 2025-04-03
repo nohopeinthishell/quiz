@@ -1,0 +1,45 @@
+{
+    "welcome": "Welcome to Quiz App",
+    "login": "Login with Google",
+    "logout": "Log Out",
+    "settings": "Set settings",
+    "any_cat": "Any category",
+    "any_diff": "Any difficulty",
+    "question": "questions",
+    "category": {
+        "general": "General Knowledge",
+        "books": "Books",
+        "film": "Film",
+        "music": "Music",
+        "musicals": "Musicals & Theatres",
+        "television": "Television",
+        "videogames": "Video Games",
+        "boardgames": "Board Games",
+        "science": "Science & Nature",
+        "computers": "Computers",
+        "math": "Mathematics",
+        "mythology": "Mythology",
+        "sports": "Sports",
+        "geography": "Geography",
+        "history": "History",
+        "politics": "Politics",
+        "art": "Art",
+        "celebrities": "Celebrities",
+        "animals": "Animals",
+        "vehicles": "Vehicles",
+        "comics": "Comics",
+        "gadgets": "Gadgets",
+        "anime": "Anime & Manga",
+        "cartoon": "Cartoon & Animations"
+    },
+    "difficulty": {
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard"
+    },
+    "start": "Start the game",
+    "game_over": "Game Over",
+    "your_res": "Your resluts",
+    "play_again": "Play again?"
+    
+}
