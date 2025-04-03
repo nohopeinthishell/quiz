@@ -8,7 +8,7 @@ import Result from "@/pages/Result";
 import Header from "@/components/Header";
 
 import { useAuthStore } from "@/store/authStore";
-import Language from "@/components/language";
+import Language from "@/components/Language";
 
 const AppRoutes = () => {
     const user = useAuthStore((s) => s.user);
