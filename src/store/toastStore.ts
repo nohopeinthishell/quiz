@@ -5,7 +5,7 @@ interface ToastStateI {
     notify: (msg: string, opts?: { description?: string; type?: "success" | "error" }) => void;
 }
 
-export const useToastStore = create<ToastState>()(() => ({
+export const useToastStore = create<ToastStateI>()(() => ({
     notify: (msg, opts) => {
         switch (opts?.type) {
             case "error":
